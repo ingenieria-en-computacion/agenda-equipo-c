@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include "agenda.h"
-
 int main() {
     Agenda agenda;
     agenda.cantidad = 0;
